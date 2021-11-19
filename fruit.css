@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+  font-family:calibri;
+}
+
+h1 {
+	text-align:center;
+  color: red;
+  font: arial;
+}
+
+form{
+  font-family: courier;
+  font-size: 20px;
+  color:pink;
+  margin:auto;
+}
+
+header
+{
+	color:red;
+}
+
+footer
+{
+	color:black;
+	
+}
